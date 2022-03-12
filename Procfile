@@ -1,1 +1,1 @@
-web: gunicorn quiz_pro.wsgi
+web: gunicorn quiz_pro.wsgi --log-file
