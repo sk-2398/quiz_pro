@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'quiz_pro.wsgi.application'
 DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.postgresql',
-       'NAME': 'quiz_pro',
-       'USER': 'postgres',
-       'PASSWORD': 'suyog123',
-       'HOST': 'localhost',
+       'NAME': 'd87n0dj4sd12dp',
+       'USER': 'gnsoyyxjhklyei',
+       'PASSWORD': '22dd14308f573be2222b217936c8a2856dd45609b9a3db7ed76c82f991e89473',
+       'HOST': 'ec2-3-225-41-234.compute-1.amazonaws.com',
        'PORT': '5432',
    }
 }
